@@ -14,4 +14,4 @@ python3 main.py
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=67ym364z&utm_source=github&utm_medium=readme&utm_campaign=u-brave-eagle-12-one-word-from-your-ex-cfd97ba2) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-brave-eagle-12-one-word-from-your-ex-cfd97ba2) · AI agents build software for cash rewards</sub>
